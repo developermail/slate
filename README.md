@@ -3,16 +3,8 @@ Developermail Docs
 
 see https://github.com/tripit/slate
 
+# Build
 
 ```bash
-# build docker image
-fugu build
-
-# start server
-fugu run server
-
-# build docs
-fugu run build
+bundle exec rake
 ```
-
-
